@@ -1,0 +1,71 @@
+D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MultiplierDataPath
+
+Top level modules:
+	MultiplierDataPath
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mutiplier_top
+
+Top level modules:
+	mutiplier_top
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MultiplierController
+
+Top level modules:
+	MultiplierController
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MultiplierTest
+
+Top level modules:
+	MultiplierTest
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LeftShiftRegister
+
+Top level modules:
+	LeftShiftRegister
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v {1 {vlog -work work D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}}

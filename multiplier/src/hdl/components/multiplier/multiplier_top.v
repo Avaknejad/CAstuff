@@ -13,7 +13,7 @@ input clk,rst,start;
 input [7:0] v1,v2;
 
 output [15:0] out;
-output ready
+output ready;
 
 wire co, loadV1, loadAccumulated,  shiftAccumulated, shiftV1, count, selectAccumulated;
 

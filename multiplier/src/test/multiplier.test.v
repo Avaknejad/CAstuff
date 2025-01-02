@@ -10,7 +10,7 @@ module MultiplierTest;
 
   wire [15:0] out;
   wire ready;
-  Multiplier u_Multiplier (
+  mutiplier_top u_Multiplier (
       .clk  (clk),
       .rst  (rst),
       .start(start),

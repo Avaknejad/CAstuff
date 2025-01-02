@@ -1,0 +1,204 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\uni\ava\CAD\sim
+vAdder
+Z1 !s100 hHI=8_`Qio8fC_XRGzCCX2
+Z2 InXk3U;c32g5zMkYaLejD50
+Z3 Vf0AzJ^01`T[zCYgcaI_8O2
+Z4 dD:\uni\ava\CAD_CA1\CAstuff\multiplier\sim
+Z5 w1735834128
+Z6 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v
+Z7 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v|
+Z10 o-work work -O0
+Z11 n@adder
+Z12 !s108 1735837234.469000
+Z13 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/adder.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter
+Z14 !s100 4B2f`^E?7G0BXWNhBMIhk2
+Z15 I@bQ:Q<jLg:OG6k4767i`:0
+Z16 V1H0?==M6749n_gd5IF2?G1
+R4
+R5
+Z17 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v
+Z18 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v|
+R10
+Z20 n@counter
+Z21 !s108 1735837234.640000
+Z22 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/counter.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLeftShiftRegister
+Z23 !s100 dfRORGgFdcoUcFbGM1>]N2
+Z24 ITk0hTg1fA4=onKFRYEoLV2
+Z25 Vb`DP:h6kifN4e]SS6WNS11
+R4
+R5
+Z26 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v
+Z27 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v|
+R10
+Z29 n@left@shift@register
+Z30 !s108 1735837234.960000
+Z31 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/left-shift-register.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier
+Z32 !s100 90HTK<R6HO?<?`UHzRf9@0
+Z33 I<ncFdF<1aYAF@C`YLoYRG2
+Z34 V?ZSkNGS:CYo_?UG:BCP_m3
+R4
+R5
+Z35 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v
+Z36 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v|
+R10
+Z38 n@multiplier
+Z39 !s108 1735837235.144000
+Z40 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplierController
+Z41 !s100 70^1]QVUmDn@zIzC4naFZ2
+Z42 IQUmIYK;PgBdDj60[<=@?n0
+Z43 VER@m?Ge@nEznXg8aTKf2_1
+R4
+R5
+Z44 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v
+Z45 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v
+L0 6
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v|
+R10
+Z47 n@multiplier@controller
+Z48 !s108 1735837235.629000
+Z49 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplierDataPath
+Z50 !s100 1li5SiV:5c0RIT[baAJaR2
+Z51 I=CjOTe>k_Ydg>6UNA9ERh1
+Z52 VV:1cDNZl1dj4kOX5K4PER3
+R4
+R5
+Z53 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v
+Z54 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v|
+R10
+Z56 n@multiplier@data@path
+Z57 !s108 1735837235.764000
+Z58 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier.datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplierTest
+!i10b 1
+Z59 !s100 BBK1VEV<bOA4Z>A9O;F]J2
+Z60 Im]h8I[O25XzbHnA6`]FJD2
+Z61 VC`]=?>@<6eJk@IEdaQ]Il0
+R4
+Z62 w1735837092
+Z63 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v
+Z64 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1735837236.046000
+!s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v|
+Z65 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/test/multiplier.test.v|
+!s101 -O0
+R10
+Z66 n@multiplier@test
+vmutiplier_top
+Z67 IWA^DM<o@1kQN6dO93Yl`L3
+Z68 VoEKGU3nOl?CW?9[End`NZ0
+R4
+Z69 w1735837218
+Z70 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v
+Z71 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v
+L0 1
+R8
+r1
+31
+R10
+!i10b 1
+Z72 !s100 z1^3VY>^B4`9QTFC8DLle3
+!s85 0
+Z73 !s108 1735837235.906000
+Z74 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v|
+Z75 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/multiplier/multiplier_top.v|
+!s101 -O0
+vMux2
+Z76 !s100 ZJ>KWVG@?^hlG;h@e37bQ3
+Z77 IcZ[Hh?b]l69dbR3<4ON<z0
+Z78 VLIA1i0_L_QfbD15VYQOjD2
+R4
+R5
+Z79 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v
+Z80 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v
+L0 1
+R8
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v|
+R10
+Z82 n@mux2
+Z83 !s108 1735837235.281000
+Z84 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/mux2.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z85 !s100 =hon1iEeeBjh@bf=S@YDQ2
+Z86 I?23An359>VLo;`AdgbScY0
+Z87 Vk2E]z0@6KE2jiXCJdUSPe0
+R4
+R5
+Z88 8D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v
+Z89 FD:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v|
+R10
+Z91 n@register
+Z92 !s108 1735837235.472000
+Z93 !s107 D:/uni/ava/CAD_CA1/CAstuff/multiplier/src/hdl/components/register.component.v|
+!i10b 1
+!s85 0
+!s101 -O0
